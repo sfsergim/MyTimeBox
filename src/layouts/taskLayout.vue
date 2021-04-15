@@ -17,7 +17,7 @@
             </q-item>
           </q-toolbar-title>
           <div class=" q-px-xd">
-            <q-img src="../statics/mercadoOluc.svg" style="width: 150px; padding-bottom: 10; padding-top: 10;" ></q-img>
+            <q-img src="../statics/js_latin_full.svg" style="width: 150px; padding-bottom: 10; padding-top: 10;" ></q-img>
           </div>
         </div>
       </q-toolbar>
